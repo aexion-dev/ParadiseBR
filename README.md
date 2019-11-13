@@ -16,6 +16,10 @@
 </p>
 Paradise is a CS:GO server plug-in built from the ground up to re-define bunnyhopping within the Counter-Strike franchise. New styles, complex features and global competitions combine to create an experience unlike anything you've played before.
 
+<b>Previous Events:</b>
+  * Spring 2016 Bunnyhop Battle Royale (VOD)
+  * Summer 2016 Bunnyhop Battle Royale (VOD)
+
 ### Requirements
 ```
 * CS:GO Dedicated Server
@@ -51,7 +55,7 @@ Paradise is a CS:GO server plug-in built from the ground up to re-define bunnyho
       }
       ```
 4. Restart Game Server and open server console to verify Paradise has been installed successfully.
-### Recommended Add-ons
+### Required Add-ons
 * [Slope Boost Fix v1.2](https://forums.alliedmods.net/showthread.php?t=266888) by Blacky
 * [CS:GO Movement Unlocker v1.0](https://forums.alliedmods.net/showthread.php?t=255298) by Peace-Maker
 * [Trigger_Push Fix v1.3](https://forums.alliedmods.net/showthread.php?t=267131) by Blacky/Hmmmm
