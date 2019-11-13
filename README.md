@@ -32,11 +32,11 @@ Paradise is a CS:GO server plug-in built from the ground up to re-define bunnyho
 1. Download the latest version of ParadiseBR and extract it to any folder.
 2. Compile the plug-ins. (Optional)
     * Download Sourcemod V1.8 or later and extract it to any folder.
-    * Copy all files from Paradise/addons/sourcemod/scripting/ into Sourcemod/addons/sourcemod/scripting.
-    * Drag-and-drop paradise-plugin.sp onto compile.exe.
-    * Copy paradise-plugin.smx from Sourcemod/addons/sourcemod/compiled/ to Paradise/addons/sourcemod/plugins.
+    * Copy all files from ParadiseBR/addons/sourcemod/scripting/ into Sourcemod/addons/sourcemod/scripting.
+    * Drag-and-drop paradise-br-plugin.sp onto compile.exe.
+    * Copy paradise-plugin.smx from Sourcemod/addons/sourcemod/compiled/ to ParadiseBR/addons/sourcemod/plugins.
 3. Install plug-ins to CS:GO Dedicated Server.
-    * Copy all files from Paradise/ into the server's csgo directory.
+    * Copy all files from ParadiseBR/ into the server's csgo directory.
 4. Configure MySQL/MariaDB Database.
     * Open the config file located at addons/sourcemod/configs/databases.cfg and add the following:
       ```
@@ -54,7 +54,7 @@ Paradise is a CS:GO server plug-in built from the ground up to re-define bunnyho
         }
       }
       ```
-4. Restart Game Server and open server console to verify Paradise has been installed successfully.
+4. Restart Game Server and open server console to verify Paradise Battle Royale has been installed successfully.
 ### Required Add-ons
 * [Slope Boost Fix v1.2](https://forums.alliedmods.net/showthread.php?t=266888) by Blacky
 * [CS:GO Movement Unlocker v1.0](https://forums.alliedmods.net/showthread.php?t=255298) by Peace-Maker
