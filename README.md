@@ -17,8 +17,8 @@
 Paradise is a CS:GO server plug-in built from the ground up to re-define bunnyhopping within the Counter-Strike franchise. New styles, complex features and global competitions combine to create an experience unlike anything you've played before.
 
 <b>Previous Events:</b>
-  * Spring 2016 Bunnyhop Battle Royale (VOD)
-  * Summer 2016 Bunnyhop Battle Royale (VOD)
+  * [Spring 2016 Bunnyhop Battle Royale (VOD)](https://www.youtube.com/watch?v=4Vf-ORN6cbk&t=19s)
+  * [Summer 2016 Bunnyhop Battle Royale (VOD)](https://www.youtube.com/watch?v=SbejlBjM8KQ)
 
 ### Requirements
 ```
@@ -29,7 +29,7 @@ Paradise is a CS:GO server plug-in built from the ground up to re-define bunnyho
   o MySQL 5.6 or MariaDB 10 and higher
 ```
 ### Installation
-1. Download the latest version of Paradise and extract it to any folder.
+1. Download the latest version of ParadiseBR and extract it to any folder.
 2. Compile the plug-ins. (Optional)
     * Download Sourcemod V1.8 or later and extract it to any folder.
     * Copy all files from Paradise/addons/sourcemod/scripting/ into Sourcemod/addons/sourcemod/scripting.
