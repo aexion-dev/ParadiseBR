@@ -15,7 +15,7 @@
   <a href="#changelog">Changelog</a>
 </p>
 Paradise is a CS:GO server plug-in built from the ground up to re-define bunnyhopping within the Counter-Strike franchise. New styles, complex features and global competitions combine to create an experience unlike anything you've played before.
-
+<br>
 <b>Previous Events:</b>
   * [Spring 2016 Bunnyhop Battle Royale (VOD)](https://www.youtube.com/watch?v=4Vf-ORN6cbk&t=19s)
   * [Summer 2016 Bunnyhop Battle Royale (VOD)](https://www.youtube.com/watch?v=SbejlBjM8KQ)
