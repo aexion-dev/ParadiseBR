@@ -7,8 +7,9 @@
   <br>
   <a href="#requirements">Requirements</a> •
   <a href="#installation">Installation</a> •
-  <a href="#features">Overview</a> •
-  <a href="#commands">Commands</a> •
+  <a href="#features">Gameplay</a> •
+  <a href="#commands">Features</a> •
+  <a href="#wiki">Commands</a> •
   <a href="#wiki">Wiki</a> •
   <a href="#support">Support</a> •
   <a href="#changelog">Changelog</a>
@@ -55,12 +56,12 @@ Paradise is a CS:GO server plug-in built from the ground up to re-define bunnyho
 * [CS:GO Movement Unlocker v1.0](https://forums.alliedmods.net/showthread.php?t=255298) by Peace-Maker
 * [Trigger_Push Fix v1.3](https://forums.alliedmods.net/showthread.php?t=267131) by Blacky/Hmmmm
 * [MPBhops v1.0.1](https://forums.alliedmods.net/showpost.php?p=2561012&postcount=118) by DaFox/Hmmmmm
-## Overview
-### Gameplay
+## Gameplay
+### Overview
 ### Maps
 ### Rules
 ### Scoring
-### Winners Circle
+### Features
 ## Commands
 Client Commands | Variables | Description
 ------------ | ------------- | -------------
