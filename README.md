@@ -64,6 +64,7 @@
 ### Overview
 Bunnyhop Battle Royale is a tournament event plug-in that places 28 players head-to-head in a competition to determine the best bunnyhopper. The event consists of five rounds of gameplay, each on a map that has never been played before. As the rounds progress, the maps become increasingly more difficult, and the roundtime is increased accordingly. During the round, players can switch between any of the seven styles and complete as many map runs as they can before time runs out. At the end of each round, the top 5 record holders for on each style will be awarded points based on the position of the record(s) they hold. At the completion of the final round, the player with the most points is the winner of the battle royale. 
 ### Maps
+There are five maps in every battle royale, each one with a unique difficulty/tier corresponding to the round it's used in. Maps should be custom-made to ensure all competitors new to the map and have an equal amount of time to develop routes/complete map runs. This mechanic forces players to decide between spending their time creating a faster route or completing the map on an additional style. Due to different latencies, players should be given the maps in advanced to ensure everyone spawns in at relatively the same time. For best results, maps should be obfuscated beforehand using BSPSafe v1.0.0 in order to prevent players from decompiling maps and studying them before the event begins.
 ### Rules
 ### Scoring
 ### Features
