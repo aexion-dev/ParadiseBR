@@ -19,7 +19,47 @@
 **Previous Events:**
   * [Spring 2016 Bunnyhop Battle Royale (VOD)](https://www.youtube.com/watch?v=4Vf-ORN6cbk&t=19s)
   * [Summer 2016 Bunnyhop Battle Royale (VOD)](https://www.youtube.com/watch?v=SbejlBjM8KQ)
-
+  
+### Requirements
+```
+* CS:GO Dedicated Server
+  o SourceMod: Greater Than or Equal To 1.7
+  o MetaMod: Source
+* MySQL Database
+  o MySQL 5.6 or MariaDB 10 and higher
+```
+### Installation
+1. Download the latest version of ParadiseBR and extract it to any folder.
+2. Compile the plug-ins. (Optional)
+    * Download Sourcemod V1.8 or later and extract it to any folder.
+    * Copy all files from ParadiseBR/addons/sourcemod/scripting/ into Sourcemod/addons/sourcemod/scripting.
+    * Drag-and-drop paradise-br-plugin.sp onto compile.exe.
+    * Copy paradise-plugin.smx from Sourcemod/addons/sourcemod/compiled/ to ParadiseBR/addons/sourcemod/plugins.
+3. Install plug-ins to CS:GO Dedicated Server.
+    * Copy all files from ParadiseBR/ into the server's csgo directory.
+4. Configure MySQL/MariaDB Database.
+    * Open the config file located at addons/sourcemod/configs/databases.cfg and add the following:
+      ```
+      "Databases"
+      {
+        "default"
+        {
+            "driver"			"mysql"
+            "host"			"YourURL"
+            "database"		"YourDatabaseName"
+            "user"			"user"
+            "pass"			"pass"
+            //"timeout"		"0"
+            //"port"			"0"
+        }
+      }
+      ```
+4. Restart Game Server and open server console to verify Paradise Battle Royale has been installed successfully.
+### Required Add-ons
+* [Slope Boost Fix v1.2](https://forums.alliedmods.net/showthread.php?t=266888) by Blacky
+* [CS:GO Movement Unlocker v1.0](https://forums.alliedmods.net/showthread.php?t=255298) by Peace-Maker
+* [Trigger_Push Fix v1.3](https://forums.alliedmods.net/showthread.php?t=267131) by Blacky/Hmmmm
+* [MPBhops v1.0.1](https://forums.alliedmods.net/showpost.php?p=2561012&postcount=118) by DaFox/Hmmmmm
 ## Gameplay
 ### Overview
 Bunnyhop Battle Royale is a tournament event plug-in that places 28 players head-to-head in a competition to determine the best bunnyhopper. The event consists of five rounds of gameplay, each on a map that has never been played before. As the rounds progress, the maps become increasingly more difficult, and the roundtime is increased accordingly. During the round, players can switch between any of the seven styles and complete as many map runs as they can before time runs out. At the end of each round, the top 5 record holders for on each style will be awarded points based on the position of the record(s) they hold. At the completion of the final round, the player with the most points is the winner of the battle royale. 
