@@ -14,7 +14,7 @@
   <a href="#support">Support</a> •
   <a href="#changelog">Changelog</a>
 </p>
-<p>Paradise is a CS:GO server plug-in built from the ground up to re-define bunnyhopping within the Counter-Strike franchise. New styles, complex features and global competitions combine to create an experience unlike anything you've played before.</p>
+<p>Bunnyhop Battle Royale is the first ever bunnyhopping tournament for CS:GO. Players compete head-to-head for five rounds to determine who is truly the best bunnyhopper. Each round features a never-before seen map, and as the rounds progress the maps increase in difficulty/tier. Players can set records on any of the seven styles and are awarded points at the end of each round corresponding to the records they still hold. The player with the most points at the end of the final round is the winner.</p>
 
 **Previous Events:**
   * [Spring 2016 Bunnyhop Battle Royale (VOD)](https://www.youtube.com/watch?v=4Vf-ORN6cbk&t=19s)
