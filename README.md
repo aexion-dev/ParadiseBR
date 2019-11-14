@@ -1,4 +1,4 @@
-<h1 align="center">Bunnyhop Battle Royale</h1>
+<h1 align="center"><img src="https://aexion.dev/img/Battle%20Royal%202016%20Banner.jpg"></h1>
 <h4 align="center"></h4>
 <p align="center">
   <a href="https://travis-ci.com/aexion-dev/Paradise"><img src="http://img.shields.io/badge/build-passing-brightgreen?style=flat-square"></a>
