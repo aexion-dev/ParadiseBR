@@ -72,7 +72,7 @@ During the event, players will be limited to the !respawn/!r, !style, !worldreco
 ### Scoring
 At the end of each round, players are moved to spectate and the scores are calculated and printed to the chat. The top 5 record holders on each style are awarded points as follows: WR = 5pts. 2nd = 4 pts. 3rd = 3pts. 4th = 2pts. and 5th = 1pt. This score system forces players to decide between spending their time creating a faster route or completing the map on as many styles as possible before time runs out.
 ### Features
-#### Map Overviews
+#### Map Overviews 
 #### Warm-up Lobby
 #### Player Authentication
 #### Winners Celebration
