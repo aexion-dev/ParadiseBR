@@ -62,6 +62,7 @@
 * [MPBhops v1.0.1](https://forums.alliedmods.net/showpost.php?p=2561012&postcount=118) by DaFox/Hmmmmm
 ## Gameplay
 ### Overview
+Bunnyhop Battle Royale is a tournament event plug-in that places 28 players head-to-head in a competition to determine the best bunnyhopper. The event consists of five rounds of gameplay, each on a map that has never been played before. As the rounds progress, the maps become increasingly more difficult, and the roundtime is increased accordingly. During the round, players can switch between any of the seven styles and complete as many map runs as they can before time runs out. At the end of each round, the top 5 record holders for on each style will be awarded points based on the position of the record(s) they hold. At the completion of the final round, the player with the most points is the winner of the battle royale. 
 ### Maps
 ### Rules
 ### Scoring
